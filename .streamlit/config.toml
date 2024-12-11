@@ -1,0 +1,7 @@
+[theme]
+base="dark"  # Options: light, dark
+primaryColor="#FF5733"  # Custom primary color
+backgroundColor="#1E1E1E"
+secondaryBackgroundColor="#2C2C2C"
+textColor="#FFFFFF"
+font="sans serif"  # Options: sans serif, serif, monospace
